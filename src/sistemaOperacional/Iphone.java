@@ -3,6 +3,10 @@ package sistemaOperacional;
 import java.util.Scanner;
 import sistemaOperacional.aplicativos.sistemaOperacional; 
 
+/*O código é um simulador de um sistema operacional para um dispositivo chamado “Iphone”.
+ Ele oferece três funcionalidades principais: telefone, música e navegação na internet.
+  vide README*/
+
 public class Iphone {
     public static void main(String[] args) throws InterruptedException {
 		
